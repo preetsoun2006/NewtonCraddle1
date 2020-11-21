@@ -7,6 +7,7 @@ const Constraint = Matter.Constraint;
 var bobObject1,bobObject2,bobObject3, bobObject4,bobObject5, roofObject
 var rope1,rope2,rope3, rope4,rope5;
 var world;
+var roofObject
 
 
 function setup() {
